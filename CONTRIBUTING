@@ -1,0 +1,51 @@
+
+
+# MERN Chess Contribution Guidelines
+
+Thank you for considering contributing to the MERN Chess project! We welcome contributions from everyone.
+
+Before you start contributing, please take a moment to review the following guidelines:
+
+## Code of Conduct
+
+Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions with the project.
+
+## How to Contribute
+
+1. **Fork** the repository and clone it locally.
+2. Create a new branch for your contribution: `git checkout -b feature/your-feature-name`.
+3. Make your changes and test them thoroughly.
+4. Commit your changes: `git commit -am 'Add some feature'`.
+5. Push to the branch: `git push origin feature/your-feature-name`.
+6. Submit a pull request (PR) to the `main` branch of the original repository.
+
+## Contribution Guidelines
+
+- **Issues**: 
+  - Use descriptive titles and provide as much detail as possible.
+  - Search existing issues before opening a new one to avoid duplicates.
+- **Pull Requests**:
+  - Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
+  - Keep your PRs focused on a single feature or fix.
+  - Write clear and concise commit messages.
+  - Update documentation when applicable.
+- **Code Style**:
+  - Follow the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
+  - Use meaningful variable and function names.
+  - Use comments to explain complex parts of your code.
+
+## Development Setup
+
+To set up the project locally for development:
+
+1. Clone the repository: `git clone https://github.com/your-username/mern-chess.git`.
+2. Install dependencies: `cd mern-chess && npm install`.
+3. Start the development server: `npm start`.
+
+## Feedback
+
+If you have any suggestions, feedback, or issues, please [open an issue](https://github.com/your-username/mern-chess/issues) or [contact us](mailto:your-email@example.com).
+
+---
+
+Feel free to customize these guidelines to fit the specific needs and workflow of your project.
