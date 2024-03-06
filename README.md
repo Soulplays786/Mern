@@ -20,10 +20,11 @@ This is a simple chess website built using the MERN stack (MongoDB, Express.js, 
 ## Installation
 
 1. Clone the repository
-2. Install dependencies: `npm install`
-3. Set up MongoDB database
-4. Start the server: `npm start`
-5. Start the client: `cd client && npm start`
+2. Extract chess.7z
+3. Install dependencies: `npm install`
+4. Set up MongoDB database
+5. Start the server: `npm start`
+6. Start the client: `cd client && npm start`
 
 ## Usage
 
